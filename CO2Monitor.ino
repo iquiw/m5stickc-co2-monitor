@@ -1,3 +1,4 @@
+// -*- mode: c -*-
 #include <M5StickC.h>
 #include "MHZ19.h"
 
