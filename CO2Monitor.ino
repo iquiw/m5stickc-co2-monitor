@@ -1,5 +1,4 @@
 #include <M5StickC.h>
-#include <HardwareSerial.h>
 #include "MHZ19.h"
 
 #define RX_PIN 26  // Rx pin which the MHZ19 Tx pin is attached to
